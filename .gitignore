@@ -1,0 +1,6 @@
+sanal_ortam/
+data/
+venv/
+__pycache__/
+*.wav
+*.mp3
